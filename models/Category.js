@@ -9,13 +9,13 @@ Category.init(
     // define columns
     category_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true,
+      autoIncrement: true
     },
   },
   {
@@ -23,7 +23,7 @@ Category.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'category',
+    modelName: 'category'
   }
 );
 
