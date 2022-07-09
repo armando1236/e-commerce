@@ -15,7 +15,7 @@ This assignment involved developing the back end of an e-commerce website. It pr
 No installation is required.
 ***
 ## Usage
-Use the terminal to run the server. Video link is included: 
+In the terminal type 'node seeds' then press enter. Then type 'node server' and press enter. Video link is included: https://drive.google.com/file/d/1AEjK1W4Vy27zIMji-u4rFlqIhPGqmTN2/view
 ***
 ## Contributing
 N/A
